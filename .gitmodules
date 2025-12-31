@@ -1,0 +1,6 @@
+[submodule "lynks_testclient"]
+	path = lynks_testclient
+	url = git@github.com:lafftale1999/lynks_testclient.git
+[submodule "lynks_backend"]
+	path = lynks_backend
+	url = git@github.com:lafftale1999/lynks_backend.git
