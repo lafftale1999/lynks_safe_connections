@@ -1,6 +1,8 @@
 # Lynks – End-to-End Video Meeting System (C++ / WebRTC / GStreamer)
 Lynks is an end-to-end video meeting system consisting of a high-performance C++ backend, Janus WebRTC Server and a WebRTC media client.
 
+Link to video demo: https://youtu.be/wjXKT6-o_8Y
+
 ## Lynks Safe Connections – Video Meeting Backend (C++ / WebRTC)
 The Lynks backend is responsible for authentication, session management, meeting orchestration, and coordination with the WebRTC media server. It exposes a REST API that clients use to log in, create meetings and discover active participants, while delegating real-time media routing to a Janus WebRTC SFU.
 
